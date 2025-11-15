@@ -9,4 +9,3 @@ The work focuses on two important areas:
 
 **Market Analysis** – extracting insights that help understand pricing, availability, demand, and supply across neighbourhoods and room types.
 
-The aim is to approach the dataset as a business stakeholder would, answering real questions relevant to travellers, hosts, or market managers.
