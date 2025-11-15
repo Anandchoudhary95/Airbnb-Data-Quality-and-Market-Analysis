@@ -1,6 +1,6 @@
-**Project Title: Airbnb Data Quality and Market Analysis**
+#Project Title: Airbnb Data Quality and Market Analysis
 
-**1. Introduction**
+##1. Introduction**
 
 This project explores Airbnb listing data obtained from the Inside Airbnb platform.
 The work focuses on two important areas:
